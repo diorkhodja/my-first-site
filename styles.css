@@ -1,0 +1,68 @@
+body {
+	background-image: url("B.jpg");
+	background-size: 80%;
+}
+
+h1{
+	font-family: Brush Script MT, Brush Script Std, bold;
+	font-size: 25;
+	font-style: bold;
+	color: Dark Blue
+}
+p{
+	font-family: Snell Roundhand, bold;
+	font-size: 120%;
+	font-style: italic bold;
+	color: gray;
+
+}
+p.m{
+	font-family: monospace;
+	font-size: 120%;
+	font-style: normal;
+	color: green;
+
+}
+h2.T{
+	text-align: center;
+	font-size: 180%;
+	color: black;
+}
+a.a{
+	font-size: 200%;
+	
+}
+p.info{
+	font-family: Snell Roundhand, italic;
+	font-size: 90%;
+	font-style: bold;
+	color: green
+}
+body.movies {
+	background-image: url("Black.jpg");
+
+}
+div{
+	padding: 12px;
+	margin: 0px;
+	border: none;
+}
+div#lastone{
+	background-image: url("L.jpg");
+
+}
+div#first{
+	background-image: url("F.jpg");
+
+}
+div#sec{
+	background-image: url("Pas.jpg");
+
+}
+
+div#third{
+	background-image: url("mart.png");
+}
+#info{
+	font-weight: bold;
+}
