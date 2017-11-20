@@ -1,33 +1,57 @@
-body {
-	background-image: url("B.jpg");
-	background-size: 80%;
+body{
+  background: url(https://i.pinimg.com/originals/26/6c/44/266c44f4d5e4b96af11fed54448b3ed1.jpg);
+  background-size: 100%
+}
+h1{
+  color: red;
+  font-size: 40px;
+  text-align: center;
 }
 
 h1{
-	font-family: Brush Script MT, Brush Script Std, bold;
+	font-family:  Brush Script Std, bold;
 	font-size: 25;
 	font-style: bold;
-	color: Dark Blue
+	color: Red;
 }
 p{
 	font-family: Snell Roundhand, bold;
 	font-size: 120%;
 	font-style: italic bold;
-	color: gray;
+	color: white;
 
 }
+
+ul{
+font-size: 120%;
+font-style: normal;
+color: white;
+}
+ol {
+font-size: 120%;
+font-style: normal;
+color: white;
+}
+
 p.m{
 	font-family: monospace;
 	font-size: 120%;
 	font-style: normal;
-	color: green;
+	color: white;
 
 }
 h2.T{
 	text-align: center;
 	font-size: 180%;
-	color: black;
+	color: white;
 }
+
+h3{
+font-size: 200%;
+font-style: normal;
+color: green;
+}
+
 a.a{
 	font-size: 200%;
 	
@@ -36,33 +60,15 @@ p.info{
 	font-family: Snell Roundhand, italic;
 	font-size: 90%;
 	font-style: bold;
-	color: green
+	color: white;
 }
-body.movies {
-	background-image: url("Black.jpg");
 
-}
 div{
 	padding: 12px;
 	margin: 0px;
 	border: none;
 }
-div#lastone{
-	background-image: url("L.jpg");
-
-}
-div#first{
-	background-image: url("F.jpg");
-
-}
-div#sec{
-	background-image: url("Pas.jpg");
-
-}
-
-div#third{
-	background-image: url("mart.png");
 }
 #info{
-	font-weight: bold;
+	font-weight: bold;	
 }
